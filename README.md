@@ -1,7 +1,7 @@
 ## Autoencoder for Credit-Card-Fraud-Detection
 
 ### Overview
-
+### Anomaly Detection With Autoencoders
 **The accuracy of a classifier model directly depends on how esily distigushable the data is. The more abstract the data is more easy it is for the model to classify. The **Autoencoders** helps us to do the exact same. The Autoencoder can help us create lower dimensional representation of the data distribution. This latent representation of original data is more distinct than the original thus can be easily distinguished by a classifier model.**
 
 ### Insight
